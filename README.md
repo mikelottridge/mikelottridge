@@ -1,16 +1,16 @@
-## Hi there 👋
+# Mike Lottridge
 
-<!--
-**mikelottridge/mikelottridge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build practical AI-enabled applications, product workflows, and automation for teams that need clear requirements, dependable execution, and decision-useful outputs.
 
-Here are some ideas to get you started:
+## Focus
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- AI applications and human-in-the-loop workflows
+- Requirements analysis and product management
+- Process automation and operational tooling
+- Clear technical communication for business and delivery teams
+
+## Selected work
+
+- [AI systems and product case studies](https://github.com/mikelottridge/upwork-collateral) — examples of document analysis, source-grounded financial metrics, and assessment-data workflows.
+
+My approach is to turn an ambiguous operating problem into a testable workflow: define the requirements, make the system’s evidence and review points clear, and deliver something a team can actually use.
